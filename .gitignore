@@ -1,5 +1,6 @@
 tess/
 TrialsRecon/libraries/tess-two/*
+!TrialsRecon/libraries/tess-two/build.gradle
 # Built application files
 *.apk
 *.ap_
