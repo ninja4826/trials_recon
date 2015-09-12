@@ -1,3 +1,5 @@
+tess/
+TrialsRecon/libraries/tess-two/*
 # Built application files
 *.apk
 *.ap_
